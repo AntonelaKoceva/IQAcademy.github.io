@@ -4,7 +4,7 @@ const socials=document.querySelectorAll("#socials img");
 
 //navigation btns
 home.addEventListener("click", () =>{
-    window.location.href="home.html";
+    window.location.href="index.html";
 });
 programs.addEventListener("click", () =>{
     window.location.href="programs.html";
